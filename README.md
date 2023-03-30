@@ -9,9 +9,8 @@
 
 ### Neste GitHub você irá encontrar:
 
-📊 Projetos e/ou atividades acadêmicas;
-
-📈 Projetos e/ou Análises de dados realizados durante o meu processo de aprendizagem em Análise de Dados.
+📊 Projetos e/ou atividades acadêmicas;  
+📈 Projetos e/ou Análises de dados realizados durante o meu processo de aprendizagem em Análise de Dados.  
 
 
 <div align="center">  
@@ -36,7 +35,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
+==============================================================================================================================================
 ### Ferramentas:
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
@@ -45,8 +44,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-  
+==============================================================================================================================================
 
  ### Estudando: 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=0D1117)
