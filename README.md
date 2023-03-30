@@ -11,7 +11,7 @@
 
 📊 Projetos e/ou atividades acadêmicas;
 
-📈 Projetos e/ou Análises de dados realizados durante o meu processo de aprendizagem em Análise de Dados
+📈 Projetos e/ou Análises de dados realizados durante o meu processo de aprendizagem em Análise de Dados.
 
 
 <div align="center">  
