@@ -38,7 +38,7 @@
 ### Ferramentas:
 ![Código do Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117) 
 ![R Studio](https://img.shields.io/badge/-rstudio-0D1117?style=for-the-badge&logo=rstudio&labelColor=0D1117)
-![Jupyter](https://jupyter.org/assets/share.png?style=for-the-badge&logo=jupyter-labk&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/-jupyter-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117)
 ![Power BI](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117) 
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117) 
