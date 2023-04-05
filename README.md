@@ -26,9 +26,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=davibarbosabdj&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/joaodavi-ufc/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor= branco"</a>
-</div>
 
 ### Habilidades principais:
 
@@ -51,5 +48,11 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=0D1117)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=0D1117)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+==============================================================================================================================================
+  
+## Me contate:
+<div>  
+<a href="https://www.linkedin.com/in/joaodavi-ufc/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor= branco"</a>
+</div>
 
 
