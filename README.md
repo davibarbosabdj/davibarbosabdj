@@ -53,5 +53,3 @@
 <div>  
 <a href="https://www.linkedin.com/in/joaodavi-ufc/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor= branco"</a>
 </div>
-
-
