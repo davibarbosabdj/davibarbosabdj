@@ -14,8 +14,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davibarbosabdj&show_icons=true&count_private=false&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9&bg_color=0d1117" alt="Davi Oliveira github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davibarbosabdj&layout=compact&hide_border=true&title_color=4169e1&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davibarbosabdj&show_icons=true&count_private=false&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9&bg_color=0d1117" alt="Davi Oliveira github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davibarbosabdj&layout=compact&hide_border=true&title_color=4169e1&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
 
