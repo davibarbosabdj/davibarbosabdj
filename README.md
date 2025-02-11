@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou o João Barbosa 😊 </h1>
+<h2 align="center"> Olá! Eu sou o João Barbosa 😊 </h2>
 
 
 
